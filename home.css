@@ -7,6 +7,10 @@ body {
   font-size: 100%;
 }
 
+dection,header, footer {
+  outline: 1px solid grey;
+}
+
 .menu < h2 {
   font-size: 120;
   padding: 0.5em;
