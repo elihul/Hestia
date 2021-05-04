@@ -1,1 +1,16 @@
+@charset "UTF-8";
 
+body {
+  margin: auto;
+  max-width: 800px;
+  font-family: century gothic;
+  font-size: 100%;
+}
+
+.menu < h2 {
+  font-size: 120;
+  padding: 0.5em;
+  border-top: 3px double #6495ED;
+  border-bottom: 3px double #6495ED;
+  margin: 1em 0;
+}
