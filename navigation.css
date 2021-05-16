@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #A7C7E7;
+    background-color: #111;
   }
 
 .mainmenu li {
@@ -19,5 +19,5 @@
 }
 
 .mainmenu li a:hover {
-    background-color: #111;
+    background-color: #2F4F4F;
 }
