@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+body {
+  font-family: century gothic, Arial, Helvetica, Sans-Serif;
+  margin: 0;
+}  
+
 img {
   float: right;
   padding: 70px;
