@@ -19,6 +19,8 @@ h1 {
 }
 
 .hero-text {
+  background-color: white;
+  content: 50px;
   text-align: center;
   position: center;
   top: 50%;
