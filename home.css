@@ -10,12 +10,12 @@ h1 {
   font-size: 50px;
 }
 
-.desk-image {
+
+html {
   background-image: url(img/background.jpg) no-repeat center fixed;
   background-color: #6495ED;
   background-size: cover;
 }
-
 .hero-text {
   background-color: white;
   content: 50px;
