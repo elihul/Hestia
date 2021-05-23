@@ -16,8 +16,14 @@ html {
   background-color: #6495ED;
   background-size: cover;
 }
-.hero-text {
+
+.desk-image {
   background-color: white;
+  psition: center;
+  width: 100px;
+  height: 75px;
+
+.hero-text {
   content: 50px;
   text-align: center;
   position: center;
