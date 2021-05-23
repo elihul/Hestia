@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
+body {
+  margin: 0;
+  font-family: century gothic, Arial, Helvetica, Sans-Serif;
+  font-size: 100%;
+}
+
 h2 {
   text-align: center;
 }
@@ -15,7 +21,7 @@ p {
 }
 
 .grid-item {
-  background-color: grey;
+  background-color: white;
   border: 1px black;
   padding: 20px;
   font-size: 30px;
