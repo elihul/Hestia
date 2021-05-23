@@ -11,10 +11,8 @@ h1 {
 }
 
 .desk-image {
-  background-image: url("img/background.jpg");
+  background-image: url(img/background.jpg) no-repeat center fixed;
   background-color: #6495ED;
-  background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
 }
 
