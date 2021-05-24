@@ -22,8 +22,8 @@ p {
 
 .grid-item {
   background-color: white;
-  border: 1px black;
+  border: 10px black;
   padding: 20px;
-  font-size: 30px;
+  font-size: 15px;
   text-align: center;
 }
