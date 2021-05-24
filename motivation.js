@@ -1,11 +1,3 @@
-.text {
-    height: 100%;
-    position: absolute;
-    left:50%;
-    text-align:center;
-    color: white;
-}
-
 .words-wrapper {
     display: inline-block;
     position: relative;
