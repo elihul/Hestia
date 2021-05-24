@@ -4,16 +4,12 @@ html, body {
     font-family: "Roboto", sans-serif;
 }
 
-.center {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    font-size:24px;
-}
 
 .text {
   position: fixed;
   float: right;
+  margin: 0;
+   -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-size:24px;
+}
