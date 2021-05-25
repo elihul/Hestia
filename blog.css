@@ -9,12 +9,12 @@ body{
 
 .headline {
   background-color: #ffffff;
-  padding: 30px;
+  padding: 10px;
 }
 
 .headline h1{
   text-align: center;
-  font-size: 60px;
+  font-size: 40px;
   color: #000000;
   margin: 1.5 0px;
 }
