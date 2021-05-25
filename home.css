@@ -11,19 +11,24 @@ h1 {
 }
 
 
-html {
-  background-image: url(img/background.jpg) no-repeat center fixed;
+body {
+  background-image: url("img/background.jpg");
   background-color: white;
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 600px;
+  
 }
 
 .desk-image {
   background-color: white;
   position: center;
+  background-size: cover;
   width: 100px;
   height: 75px;
 
-.hero-text {
+.desk-image .hero-text {
   content: 50px;
   text-align: center;
   position: center;
