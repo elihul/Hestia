@@ -12,10 +12,12 @@ body {
 .class {
   float: left;
   margin: 70px;
+  width: 75%;
 }
 
 img {
   float: right;
   padding: 70px;
   top: 10px;
+  width:25%;
 }
