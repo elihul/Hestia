@@ -5,8 +5,12 @@ body {
   margin: 0;
 }  
 
+.class {
+  float: left;
+}
+
 img {
   float: right;
   padding: 70px;
-  top: 30px;
+  top: 10px;
 }
