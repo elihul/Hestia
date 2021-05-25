@@ -13,13 +13,13 @@ h1 {
 
 html {
   background-image: url(img/background.jpg) no-repeat center fixed;
-  background-color: #6495ED;
+  background-color: white;
   background-size: cover;
 }
 
 .desk-image {
   background-color: white;
-  psition: center;
+  position: center;
   width: 100px;
   height: 75px;
 
