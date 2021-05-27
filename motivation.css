@@ -37,12 +37,13 @@ body {
     left: 20px;     
 }    
 
-.div-content {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 50%;
-  position: relative;
-}    
+.list-image {
+    width: 100;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    position: center;
+}
     
 .slider-button {
   border: none;
@@ -76,11 +77,3 @@ body {
   right: 0%;
 }
     
-    
-.list-image {
-    width: 100;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 50%;
-    position: center;
-}
