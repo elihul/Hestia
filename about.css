@@ -17,14 +17,16 @@ h1 {
   padding: 50px;
 }
 
-.class {
+.class-left {
   float: left;
   width: 75%;
 }
 
-img {
+.class-right {
   float: right;
-  width: 350px;
+  width: 25%;
+  
+.class-right img {
   length: 450px;
 }
 
