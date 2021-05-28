@@ -35,11 +35,13 @@ h2 {
 .left-column {
   width: 50%;
   float: left;
+  padding-right: 25px;
 }
 
 .right-column {
   width: 50%;
   float: right;
+  padding-left: 25px;
 }
 
 @media(max-width:800px){
