@@ -32,8 +32,10 @@ body {
 }
 
 .div-content img{
-    width: 35%;
-    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 35%;
+    position:relative;
 }
     
 .fun-list {
