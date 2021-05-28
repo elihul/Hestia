@@ -26,6 +26,21 @@ body {
   top: 10px;
 }
 
+h2 {
+  text-align: center;
+  margin: 75px;
+}
+
+.left-column {
+  width: 50%;
+  float: left;
+}
+
+.right-column {
+  width: 50%;
+  float: right;
+}
+
 @media(max-width:800px){
   .left-column,.right-column{
     width: 100%;
