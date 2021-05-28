@@ -13,6 +13,10 @@ h1 {
   margin-left: 25px;
 }
 
+.row {
+  margin: 25px;
+}
+
 .class {
   float: left;
   width: 75%;
