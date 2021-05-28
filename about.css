@@ -24,9 +24,8 @@ h1 {
 }
 
 .image img {
-  padding: 70px;
-  top: 10px;
-}
+  width: 200px;
+  length: 350px;
 
 h2 {
   text-align: center;
