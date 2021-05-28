@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-  margin-left: 75px;
+  margin-left: 25px;
 }
 
 .class {
@@ -28,13 +28,14 @@ h1 {
   length: 350px;
 
 h2 {
-  text-align: center;
-  margin: 75px;
+  margin-left: 25px;
+  margin-top: 75px;
 }
 
 .left-column {
   width: 50%;
   float: left;
+  margin-left: 25px;
 }
 
 .right-column {
