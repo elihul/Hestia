@@ -22,14 +22,11 @@ h1 {
   width: 75%;
 }
 
-.image {
+img {
   float: right;
-  width: 25%;
-}
-
-.image img {
   width: 350px;
   length: 450px;
+}
 
 h2 {
   margin-left: 25px;
