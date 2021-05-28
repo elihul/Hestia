@@ -9,15 +9,17 @@ body {
   box-sizing: border-box;
 }
 
+h1 {
+  margin-left: 75px;
+}
+
 .class {
   float: left;
-  margin: 70px;
   width: 75%;
 }
 
 .image {
   float: right;
-  margin: 70px;
   width: 25%;
 }
 
