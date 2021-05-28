@@ -39,24 +39,15 @@ body{
   margin-top:20px;
 }
 
-.left-column .card img{
-  width: 530;
-  height: 400;
-}
-
-.right-column .card img{
-  margin-bottom: 10px;
+.card img{
   width: 100%;
 }
 
-footer{
-  background-color: #dddddd;
-  padding: 20px;
-  text-align: center;
-  margin-top: 20px;
-  position: absolute;
-  bottom: 0px;
+
+.right-column .card img{
+  margin-bottom: 10px;
 }
+
 
 @media(max-width:800px){
   .left-column,.right-column{
