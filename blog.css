@@ -4,7 +4,7 @@ body{
   font-family: century gothic, Arial, Helvetica, Sans-Serif;
   margin: 0;
   background-color: #f1f1f1;
-  padding-bottom: 20px;
+  height: 700px;
 }
 *{
   box-sizing: border-box;
@@ -39,12 +39,14 @@ body{
   margin-top:20px;
 }
 
-.card img{
-  width: 100%;
+.left-column card img{
+  width: 530;
+  height: 400;
 }
 
 .right-column .card img{
   margin-bottom: 10px;
+  width: 100%;
 }
 
 footer{
