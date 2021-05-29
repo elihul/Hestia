@@ -43,9 +43,13 @@ body{
   width: 100%;
 }
 
+.left-column .card img{
+  height: 300px;
+}  
 
 .right-column .card img{
   margin-bottom: 10px;
+  height: auto;
 }
 
 
